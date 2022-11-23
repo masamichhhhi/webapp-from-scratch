@@ -1,0 +1,11 @@
+{
+  "name": "webapp-from-scratch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:masamichhhhi/webapp-from-scratch.git",
+  "author": "masamichhhhi <masamichhhi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/cli": "^9.1.5"
+  }
+}

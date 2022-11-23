@@ -1,0 +1,12 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type SaleItemModel {
+  id: String!
+  name: String!
+}
+
+type Query {
+  saleItems: [SaleItemModel!]
+}
